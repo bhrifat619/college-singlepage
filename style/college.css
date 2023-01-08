@@ -774,9 +774,7 @@ body {
     #education {
         height: 60vh;
     }
-
-    .edu .top-edu {}
-
+    
     .home-btn {
         flex-direction: column;
     }
