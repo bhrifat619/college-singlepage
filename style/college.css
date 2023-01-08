@@ -882,9 +882,22 @@ body {
 
 }
 
-@media (max-width:280px) {
+@media (max-width:375px) {
     .blog p {
-        font-size: .7rem;
+        font-size: .3rem;
     }
+    .blog-card .blog h3 {
+        font-size: 1rem;
+    }
+    .blog-card .blog{
+        height: 40vh;
+        width: 11rem;
+    }
+    #blogs img{
+        width: 11rem;
+        height: 16vh;
+    }
+    
 }
+
 /* all done.  */
